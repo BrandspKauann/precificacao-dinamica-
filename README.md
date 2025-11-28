@@ -43,14 +43,6 @@ Recomendar, dia a dia, o **preço que mais gera receita** (`price × demanda`) u
 
 ---
 
-## Deploy & Próximos Passos
-- API REST com FastAPI (`/predict` → demanda + preço ótimo)  
-- Container Docker & pipeline Airflow para retreino diário  
-- Teste A/B 50/50 para validar lift real  
-- Monitoramento de drift e performance em Prometheus + Grafana  
-
----
-
 ## Tecnologias
 `Python` | `pandas` | `XGBoost` | `Optuna` | `FastAPI` | `Docker` | `Apache Airflow`
 
