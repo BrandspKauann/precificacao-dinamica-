@@ -1,6 +1,7 @@
 # Precificação Dinâmica – Inteligência Artificial  
 **Maximizando receita sem adivinhação: modelo XGBoost em produção.**
-
+---
+![Resultado](download%20%287%29.png)
 ---
 
 ## Objetivo
